@@ -140,13 +140,8 @@ hash = "9862a40ae0b9010f324fe58cdbbbe66beed38e934b58dd4eddcdd0a1650251e5"
 metafile = true
 
 [[files]]
-file = "mods/bingBingWahoo-2.0.0+1.18.f5aa0ab.jar"
-hash = "f75b01bb8d01530801ac3161c324e85a8c458642b48fd8fa22e1ab8894e8b7b0"
-
-[[files]]
-file = "mods/bingBingWahoo.pw.toml"
-hash = "ff9e602db9628e1868100d26062e8b8d27f0c781914e843c649414959b711f0c"
-metafile = true
+file = "mods/bingBingWahoo-3.0.0-93.jar"
+hash = "61c0eb2f9d22bc595a8250e04c1b3429050a28e348bbc853969c5c883b84f912"
 
 [[files]]
 file = "mods/biome-makeover.pw.toml"
