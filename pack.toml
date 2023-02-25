@@ -1,0 +1,16 @@
+name = "Spaghetti (Again)"
+author = "Tropheus Jay"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "4db74fdd81344c06fd817a29f5173b8728733fa76e9ba6e71552915dd682564d"
+
+[versions]
+minecraft = "1.19.2"
+quilt = "0.18.2"
+
+[options]
+datapack-folder = "global_packs/required_datapacks"
