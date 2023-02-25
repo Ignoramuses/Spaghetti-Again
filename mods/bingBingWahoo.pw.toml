@@ -1,0 +1,8 @@
+name = "Biome Makeover"
+filename = "bingBingWahoo-3.0.0-93.jar"
+side = "both"
+
+[download]
+url = "*"
+hash-format = "sha1"
+hash = "ef55f8ea52d181cefab5ec8f91f07dc1bc9f3ab8"
