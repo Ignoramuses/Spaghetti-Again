@@ -439,6 +439,11 @@ hash = "53e83e4a46fa1fc9f865fc1dd458b256f3f3083cdeabdee417834d83e3b1b739"
 metafile = true
 
 [[files]]
+file = "mods/icarus.pw.toml"
+hash = "29bf4b9e747ca85980f003a2d301e4d02f83886ecfeffc283d2742d4e774acc9"
+metafile = true
+
+[[files]]
 file = "mods/idwtialsimmoedm.pw.toml"
 hash = "fa6227599e48c9dea95f11406587f218889ab9567d6c17ac83b7dec08b1a09fc"
 metafile = true
