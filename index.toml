@@ -299,6 +299,11 @@ hash = "286e91c8339de0b0e4e5b8f4b0fccaf6d2fbbfa88978b68aa9fea28c3badbe04"
 metafile = true
 
 [[files]]
+file = "mods/dracomelette.pw.toml"
+hash = "8f9a11324f5ceacc05b9e442a0dd9ae482553f2409f4bbf6ec3ad05d613c9f92"
+metafile = true
+
+[[files]]
 file = "mods/ears.pw.toml"
 hash = "1db2450bda0f99fd939ba9534c58853bf3631889c7d1736127dc2bf2a62af41a"
 metafile = true
@@ -716,6 +721,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "42cb1efd5de9999dd8f9676e10fc4c02e53a3abe58975bc21bac691f3578ca1c"
+metafile = true
+
+[[files]]
+file = "mods/respawnable-pets.pw.toml"
+hash = "3b22d5fafbb43406d0bd5d1d6a0fb0d405279f71cf262bfb8bdd16d02fd3c9f3"
 metafile = true
 
 [[files]]
