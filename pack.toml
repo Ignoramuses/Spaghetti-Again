@@ -11,6 +11,3 @@ hash = "6d7d0301608e1ac829317bf880b9bdabb3b535889f684b8c8ba742919436089c"
 [versions]
 minecraft = "1.19.2"
 quilt = "0.18.2"
-
-[options]
-datapack-folder = "global_packs/required_datapacks"
