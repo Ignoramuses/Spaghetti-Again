@@ -1,0 +1,13 @@
+name = "ekaC"
+filename = "ekaC-fabric1.19.2-v2.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TQBTz7yf/versions/zptNHhGP/ekaC-fabric1.19.2-v2.0.1.jar"
+hash-format = "sha1"
+hash = "24bad1b4468846386e5e16017d3b0578362ad698"
+
+[update]
+[update.modrinth]
+mod-id = "TQBTz7yf"
+version = "zptNHhGP"

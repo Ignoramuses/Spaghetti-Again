@@ -36,7 +36,7 @@ metafile = true
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
-hash = "735494c73cd590dffb1fa25bbf52172a5afffec221fa0600f59f6c2668aa7d9c"
+hash = "f30b15dc574856f6eca824f645537680ca12a6282bee89a33cbced66d6601dca"
 metafile = true
 
 [[files]]
@@ -244,6 +244,11 @@ hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "3daeb5b214c1cde72019cb471b96901c9ea1247dbfabbf282499121f1bd84f70"
+metafile = true
+
+[[files]]
 file = "mods/configured-fabric.pw.toml"
 hash = "769481536dccb0e770ab7ec217142e3c3c3bc16c55bc4d35ddd14f41eeb85aca"
 metafile = true
@@ -311,6 +316,11 @@ metafile = true
 [[files]]
 file = "mods/earth2java.pw.toml"
 hash = "11098e0ab0c6ea11052a66e2f354260fc084389944dbdb778e04a9bc17dcf746"
+metafile = true
+
+[[files]]
+file = "mods/ekac.pw.toml"
+hash = "1b6225d4cdbd9811ce48aa40df829c303e0538dcb31a6aab2f71a0b1f7099493"
 metafile = true
 
 [[files]]
@@ -444,6 +454,11 @@ hash = "53e83e4a46fa1fc9f865fc1dd458b256f3f3083cdeabdee417834d83e3b1b739"
 metafile = true
 
 [[files]]
+file = "mods/hoe-tweaks.pw.toml"
+hash = "b9621948c3cc3da16d5d59e48cc1eb0da2025725a647ba3aaf8f59c9426de296"
+metafile = true
+
+[[files]]
 file = "mods/icarus.pw.toml"
 hash = "29bf4b9e747ca85980f003a2d301e4d02f83886ecfeffc283d2742d4e774acc9"
 metafile = true
@@ -480,7 +495,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "dc458d8e5724414b2a99b3ead7f4155e57e46262cbf33e5b257c5b29803eccd7"
+hash = "2355898e55539353e3fe43057c1c2880e02ceb6b64c8f5d1e0bc2a660635c323"
 metafile = true
 
 [[files]]
@@ -645,7 +660,7 @@ metafile = true
 
 [[files]]
 file = "mods/physicsmod.pw.toml"
-hash = "bd74612418b86c22e7713d79899476fd3a127696fea2719de1ea975e4ccd52e5"
+hash = "21dcd6717281f2b15a4e8920817ee3b37fe37f64660ae3f41f561b49c1a60a6a"
 metafile = true
 
 [[files]]
@@ -810,7 +825,7 @@ metafile = true
 
 [[files]]
 file = "mods/tooltipfix.pw.toml"
-hash = "65be56f3317685fbd619a4f4c16b965ec3ce5b62b7be40507bea7a274307d27e"
+hash = "4f782435d758d3cfd57ba49e2a4994006722d42307ef74ef3d35a1704f9ed5c4"
 metafile = true
 
 [[files]]
