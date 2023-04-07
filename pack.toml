@@ -1,13 +1,13 @@
 name = "Spaghetti (Again)"
 author = "Tropheus Jay"
-version = "0.1.0"
+version = "0.1.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "32bcb7928ab5f06affea59ab36037bfca5e16d7261ff0a8f1061767c0f7b0a2f"
+hash = "8d57250ea329ae56ea5742d50651a6491bac8ab70dbcf47e31d1d74ec1690fcd"
 
 [versions]
 minecraft = "1.19.2"
-quilt = "0.18.2"
+quilt = "0.19.0-beta.5"
