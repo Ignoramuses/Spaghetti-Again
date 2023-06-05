@@ -684,6 +684,11 @@ hash = "035cf067abeae7a83b6f3046b466e502fbd048a2c5612affefcb138d1d551c8f"
 metafile = true
 
 [[files]]
+file = "mods/polymorph.pw.toml"
+hash = "a441c287441f57daa6336ad4606c6530320dd0881deb60efa2447a517fb95cd3"
+metafile = true
+
+[[files]]
 file = "mods/portal-cubed.pw.toml"
 hash = "a6c8036215b0573f740a70b3e754b6e9a1d96a0c8ff7355b29c9b47daddc1319"
 metafile = true
