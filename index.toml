@@ -21,7 +21,7 @@ metafile = true
 
 [[files]]
 file = "mods/advancements-debug.pw.toml"
-hash = "ee594d77a6bf804bece719158860532f059ecb4181d8740d16e73e0f19d8415e"
+hash = "f6620ab34805ef3a7c88b8a83c044e69f15c2034af90bd55820041469e8357fa"
 metafile = true
 
 [[files]]
@@ -117,6 +117,11 @@ metafile = true
 [[files]]
 file = "mods/berries.pw.toml"
 hash = "3e2f58fb444ff95e42ff6af009b5b5db519050f3458ab2f856bc6156f57c9922"
+metafile = true
+
+[[files]]
+file = "mods/better-advancements.pw.toml"
+hash = "94a27b84c3b189394e73ec4018caf931f00359e016b51b27a063a4ce4a99848e"
 metafile = true
 
 [[files]]
