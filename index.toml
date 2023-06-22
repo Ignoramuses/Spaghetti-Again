@@ -279,13 +279,8 @@ hash = "f46b7cedf2a94914e65012c07387024c4205f9c4c235a784948a72ca0cc84648"
 metafile = true
 
 [[files]]
-file = "mods/create-crystal-clear-fabric.pw.toml"
-hash = "c023c146425bae6a34fe3d91eafb8b0413b0df40d4ce235245c22d219cbee7b4"
-metafile = true
-
-[[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "d704cac0396798f84364471332c1d956a99433aa6dc55005153cffc5e31db262"
+hash = "e9ca0f5ceeb8c3dc5117d3bc0d5fd5756eb2763e8ae148e8053396726cc06259"
 metafile = true
 
 [[files]]
